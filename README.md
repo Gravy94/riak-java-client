@@ -26,6 +26,7 @@ Please see the [Release Notes](https://github.com/basho/riak-java-client/blob/de
     * [Using 2.0 Data Types](#using-20-data-types)
     * [RiakCommand Subclasses](#riakcommand-subclasses)
 
+
 ## Installation
 
 This branch of the Riak Java Client is for the new v2.0 client, to be used with Riak 2.0.
